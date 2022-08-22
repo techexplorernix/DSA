@@ -26,4 +26,11 @@ hs_err_pid*
 .project
 .factorypath
 .settings
-target
+
+# Maven
+target/
+dist/
+
+# JetBrains IDE
+.idea/
+/DS_Store
