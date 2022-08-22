@@ -5,6 +5,8 @@ import java.util.HashMap;
 import java.util.Map;
 //import javafx.util.Pair;
 
+//https://leetcode.com/problems/two-sum/
+//LC-1
 public class TwoSum {
 	// using HashMap
 	// TC O(n)
